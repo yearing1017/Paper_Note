@@ -1,2 +1,25 @@
 # Paper_Note
 ⏰记录一些自己读过的论文笔记
+## AlexNet
+- 论文地址：[ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- 论文笔记：[博文地址](https://yearing1017.site/2019/10/31/AlexNet-paper/)
+
+## VGG_Net
+- 论文地址：[VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/pdf/1409.1556.pdf)
+- 论文笔记：[博文地址](https://yearing1017.site/2019/11/05/VGG-paper/)
+
+## ResNet
+- 论文地址：[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
+- 论文笔记：[博文地址](https://yearing1017.site/2019/11/07/ResNet-paper/)
+
+## DenseNet
+- 论文地址：[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+- 论文笔记：[博文地址](https://yearing1017.site/2019/10/29/DenseNet-CVPR2017/)
+
+## FCN
+- 论文地址：[Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
+- 论文笔记：[博文地址](https://yearing1017.site/2019/10/27/FCN-CVPR2015/)
+
+## U-Net
+- 论文地址：[Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
+- 论文笔记：[博文地址](https://yearing1017.site/2019/11/21/U-Net-paper/)

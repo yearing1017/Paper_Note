@@ -23,3 +23,8 @@
 ## U-Net
 - 论文地址：[Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 - 论文笔记：[博文地址](https://yearing1017.site/2019/11/21/U-Net-paper/)
+
+## Multi-Scale Context Aggregation by Dilation Convolutions
+- 论文地址：[Multi-Scale Context Aggregation by Dilation Convolutions](https://arxiv.org/pdf/1511.07122.pdf)
+- 论文笔记：[DilatedConv_空洞卷积](https://yearing1017.site/2019/12/08/DilatedConv-空洞卷积/)
+- 论文笔记：[DilatedConv_paper](https://yearing1017.site/2019/12/11/DilatedConv-paper/)

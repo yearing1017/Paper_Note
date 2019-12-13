@@ -28,3 +28,7 @@
 - 论文地址：[Multi-Scale Context Aggregation by Dilation Convolutions](https://arxiv.org/pdf/1511.07122.pdf)
 - 论文笔记：[DilatedConv_空洞卷积](https://yearing1017.site/2019/12/08/DilatedConv-空洞卷积/)
 - 论文笔记：[DilatedConv_paper](https://yearing1017.site/2019/12/11/DilatedConv-paper/)
+
+## Semantic Human Matting
+- 论文地址：[Semantic Human Matting](https://arxiv.org/pdf/1809.01354v2.pdf)
+- 论文笔记：[博文地址](#地址)

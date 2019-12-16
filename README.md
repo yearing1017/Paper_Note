@@ -31,4 +31,4 @@
 
 ## Semantic Human Matting
 - 论文地址：[Semantic Human Matting](https://arxiv.org/pdf/1809.01354v2.pdf)
-- 论文笔记：[博文地址](#地址)
+- 论文笔记：[博文地址](https://yearing1017.site/2019/12/16/SHM-paper/)

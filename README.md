@@ -32,3 +32,7 @@
 ## Semantic Human Matting
 - 论文地址：[Semantic Human Matting](https://arxiv.org/pdf/1809.01354v2.pdf)
 - 论文笔记：[博文地址](https://yearing1017.site/2019/12/16/SHM-paper/)
+
+## Revisiting Dilated Convolution: A Simple Approach for Weakly and SemiSupervised Semantic Segmentation
+- 论文地址：[Revisiting Dilated Convolution: A Simple Approach for Weakly and SemiSupervised Semantic Segmentation](https://arxiv.org/pdf/1805.04574.pdf)
+- 论文笔记：[博文地址](https://yearing1017.site/2019/12/21/Revisiting-Dilated-Convolution-A-Simple-Approach-for-Weakly-and-SemiSupervised-Semantic-Segmentation/)

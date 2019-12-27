@@ -36,3 +36,7 @@
 ## Revisiting Dilated Convolution: A Simple Approach for Weakly and SemiSupervised Semantic Segmentation
 - 论文地址：[Revisiting Dilated Convolution: A Simple Approach for Weakly and SemiSupervised Semantic Segmentation](https://arxiv.org/pdf/1805.04574.pdf)
 - 论文笔记：[博文地址](https://yearing1017.site/2019/12/21/Revisiting-Dilated-Convolution-A-Simple-Approach-for-Weakly-and-SemiSupervised-Semantic-Segmentation/)
+
+## Deeplab_v3
+- 论文地址：[Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587v3.pdf)
+- 论文笔记：[博文地址](https://yearing1017.site/2019/12/26/DeepLabV3-paper/)

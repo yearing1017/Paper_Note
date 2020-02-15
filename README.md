@@ -47,3 +47,7 @@
 
 ## Depthwise separable convolution
 - 内容笔记：[博文地址](https://yearing1017.site/2020/02/15/Depthwise-separable-convolution/)
+
+## Xception
+- [论文地址]()
+- [博文地址]()

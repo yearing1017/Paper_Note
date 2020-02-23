@@ -49,5 +49,5 @@
 - 内容笔记：[博文地址](https://yearing1017.site/2020/02/15/Depthwise-separable-convolution/)
 
 ## Xception
-- 论文地址：[](https://arxiv.org/abs/1610.02357)
+- 论文地址：[Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 - 博文笔记：[博文地址](https://yearing1017.site/2020/02/16/Xception-paper/)

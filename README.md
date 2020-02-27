@@ -51,3 +51,8 @@
 ## Xception
 - 论文地址：[Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 - 博文笔记：[博文地址](https://yearing1017.site/2020/02/16/Xception-paper/)
+
+## Understanding Deep Learning Techniques for Image Segmentation
+- 论文地址：[Understanding Deep Learning Techniques for Image Segmentation](https://arxiv.org/abs/1907.06119)
+- 博文笔记：[博文地址](https://yearing1017.site/2020/02/16/Xception-paper/)#
+- 博文笔记：[博文地址](https://yearing1017.site/2020/02/16/Xception-paper/)

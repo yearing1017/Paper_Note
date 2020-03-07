@@ -55,3 +55,7 @@
 ## Understanding Deep Learning Techniques for Image Segmentation
 - 论文地址：[Understanding Deep Learning Techniques for Image Segmentation](https://arxiv.org/abs/1907.06119)
 - 博文笔记：[博文地址](https://yearing1017.site/2020/02/16/Xception-paper/)
+
+## SegNet
+- [论文地址](https://arxiv.org/abs/1505.07293)
+- [博文笔记]()

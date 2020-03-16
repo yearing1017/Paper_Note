@@ -1,6 +1,6 @@
 # Paper_Note
 ⏰ 记录一些自己读过的论文笔记
--  💡小tips: arxiv国内镜像的访问及PDF下载
+-  💡 论文下载tips：**arxiv国内镜像的访问及PDF下载**
     - Cornel University提供支持的原访问地址：https://arxiv.org
     - 国内中科院镜像的地址：cn.arxiv.org
     - 在原网站找到文章后，可以把http://替换为cn.

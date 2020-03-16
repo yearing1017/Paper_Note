@@ -1,10 +1,10 @@
 # Paper_Note
 ⏰ 记录一些自己读过的论文笔记
-💡 - 小tips: arxiv国内镜像的访问及PDF下载
-       - Cornel University提供支持的原访问地址：https://arxiv.org
-       - 国内中科院镜像的地址：cn.arxiv.org
-       - 在原网站找到文章后，可以把http://替换为cn.
-       - 如：cn.arxiv.org/pdf/1710.06081v2
+-  💡小tips: arxiv国内镜像的访问及PDF下载
+    - Cornel University提供支持的原访问地址：https://arxiv.org
+    - 国内中科院镜像的地址：cn.arxiv.org
+    - 在原网站找到文章后，可以把http://替换为cn.
+    - 如：cn.arxiv.org/pdf/1710.06081v2
 
 ## AlexNet
 - 论文地址：[ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)

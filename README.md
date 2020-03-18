@@ -1,6 +1,6 @@
 # Paper_Note
 ⏰ 记录一些自己读过的论文笔记
--  💡 论文下载tips：**arxiv国内镜像的访问及PDF下载**
+-  💡 **论文下载tips：arxiv国内镜像的访问及PDF下载**
     - Cornel University提供支持的原访问地址：https://arxiv.org
     - 国内中科院镜像的地址：cn.arxiv.org
     - 在原网站找到文章后，可以把http://替换为cn.
@@ -65,3 +65,6 @@
 ## SegNet
 - 论文地址：[SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1505.07293)
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/03/08/SegNet-paper/)
+
+## DFN
+- 论文地址：[Learning a Discriminative Feature Network for Semantic Segmentation](https://arxiv.org/abs/1804.09337)

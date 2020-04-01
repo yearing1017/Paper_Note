@@ -68,4 +68,6 @@
 
 ## DFN
 - 论文地址：[Learning a Discriminative Feature Network for Semantic Segmentation](https://arxiv.org/abs/1804.09337)
-- 博文
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/03/19/DFN-paper/)
+
+## C

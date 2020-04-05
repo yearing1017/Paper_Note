@@ -73,3 +73,7 @@
 ## CCNet
 - 论文地址：[ CCNet: Criss-Cross Attention for Semantic Segmentation](http://cn.arxiv.org/pdf/1811.11721.pdf)
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/03/26/CCNet-paper/)
+
+## Non-local
+- 论文地址：[Non-local Neural Networks]()
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/04/05/Non-local-paper/#more)

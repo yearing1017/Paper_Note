@@ -80,4 +80,4 @@
 
 ## DAN
 - 论文地址：[Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983)
-- 
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/04/06/DAN-paper/#more)

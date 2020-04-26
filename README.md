@@ -81,3 +81,7 @@
 ## DAN
 - 论文地址：[Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983)
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/04/06/DAN-paper/#more)
+
+## R-CNN
+- 论文地址：[Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)](http://cn.arxiv.org/pdf/1311.2524.pdf)
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/04/26/R-CNN-paper/)

@@ -122,5 +122,5 @@
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/04/27/Fast-R-CNN/)
 
 ### Faster R-CNN
-- 论文地址：[]()
-- 博文笔记：[]()
+- 论文地址：[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/04/29/Faster-R-CNN/)

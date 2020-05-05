@@ -29,6 +29,7 @@
 - **R-CNN**
 - **Fast R-CNN**
 - **Faster R-CNN**
+- **Mask R-CNN**
 
 
 ## 论文及笔记

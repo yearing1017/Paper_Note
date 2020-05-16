@@ -130,3 +130,7 @@
 ### Mask R-CNN
 - 论文地址：[Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
 - 论文笔记：[博文地址](http://yearing1017.cn/2020/05/04/Mask-R-CNN/)
+
+### SENet
+- 论文地址：[]()
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/05/11/SENet-paper/)

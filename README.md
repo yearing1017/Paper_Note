@@ -30,7 +30,8 @@
 - **Fast R-CNN**
 - **Faster R-CNN**
 - **Mask R-CNN**
-
+- **SENet**
+- **SKNet**
 
 ## 论文及笔记
 

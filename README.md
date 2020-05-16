@@ -132,5 +132,9 @@
 - 论文笔记：[博文地址](http://yearing1017.cn/2020/05/04/Mask-R-CNN/)
 
 ### SENet
-- 论文地址：[SENet](https://arxiv.org/abs/1709.01507)
+- 论文地址：[Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/05/11/SENet-paper/)
+
+### SKNet
+- 论文地址：[]()
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/05/14/SKNet/)

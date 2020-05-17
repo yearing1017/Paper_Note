@@ -32,6 +32,7 @@
 - **Mask R-CNN**
 - **SENet**
 - **SKNet**
+- **ResNeSt**
 
 ## 论文及笔记
 

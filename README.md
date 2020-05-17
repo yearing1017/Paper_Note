@@ -139,3 +139,6 @@
 ### SKNet
 - 论文地址：[Selective Kernel Networks](https://arxiv.org/pdf/1903.06586.pdf)
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/05/14/SKNet/)
+
+### ResNeSt
+- 论文地址：[ResNeSt: Split-Attention Networks](https://hangzhang.org/files/resnest.pdf)

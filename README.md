@@ -142,3 +142,4 @@
 
 ### ResNeSt
 - 论文地址：[ResNeSt: Split-Attention Networks](https://hangzhang.org/files/resnest.pdf)
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/05/17/ResNeSt-Split-Attention-Networks/)

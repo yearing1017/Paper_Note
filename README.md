@@ -2,8 +2,8 @@
 ⏰ **记录一些自己读过的论文笔记**
 ###  💡 论文下载tips：arxiv国内镜像的访问及PDF下载
 - Cornel University提供支持的原访问地址：https://arxiv.org
-- 国内中科院镜像的地址：cn.arxiv.org
-- 在原网站找到文章后，可以把http://替换为cn.
+- 国内中科院镜像的地址：cn.arxiv.org 或者：xxx.itp.ac.cn
+- 在原网站找到文章后，可以把https://替换为cn. 或者：http://xxx.itp.ac.cn/
 - 如：cn.arxiv.org/pdf/1710.06081v2
 ### 💡 已读论文列表
 - **AlexNet**

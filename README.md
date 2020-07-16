@@ -33,6 +33,7 @@
 - **SENet**
 - **SKNet**
 - **ResNeSt**
+- **FarSeg**
 
 ## 论文及笔记
 
@@ -143,3 +144,8 @@
 ### ResNeSt
 - 论文地址：[ResNeSt: Split-Attention Networks](https://hangzhang.org/files/resnest.pdf)
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/05/17/ResNeSt-Split-Attention-Networks/)
+
+### FarSeg
+- 论文地址：[Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.pdf)
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/07/15/FarSeg-paper/)
+

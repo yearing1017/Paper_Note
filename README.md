@@ -4,7 +4,7 @@
 - Cornel University提供支持的原访问地址：https://arxiv.org
 - 国内中科院镜像的地址：cn.arxiv.org 或者：xxx.itp.ac.cn
 - 在原网站找到文章后，可以把https://替换为cn. 或者：http://xxx.itp.ac.cn/
-- 如：cn.arxiv.org/pdf/1710.06081v2
+- 如：cn.arxiv.org/pdf/1710.06081v2 或者：http://xxx.itp.ac.cn/pdf/1506.02640v5
 ### 💡 已读论文列表
 - **AlexNet**
 - **VGG_Net**

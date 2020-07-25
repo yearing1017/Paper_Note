@@ -34,6 +34,8 @@
 - **SKNet**
 - **ResNeSt**
 - **FarSeg**
+- **Yolov1**
+- **Yolov2**
 
 ## 论文及笔记
 

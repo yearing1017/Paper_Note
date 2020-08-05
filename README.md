@@ -153,7 +153,7 @@
 
 ### Yolov1
 - 论文地址：[You Only Look Once: Uniﬁed, Real-Time Object Detection](http://xxx.itp.ac.cn/pdf/1506.02640v5)
--博文笔记：[博文地址](http://yearing1017.cn/2020/07/17/Yolov1-paper/)
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/07/17/Yolov1-paper/)
 
 ### Yolov2
 - 论文地址：[YOLO9000: Better, Faster, Stronger](http://xxx.itp.ac.cn/pdf/1612.08242)

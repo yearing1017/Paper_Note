@@ -5,11 +5,19 @@
 - 国内中科院镜像的地址：cn.arxiv.org 或者：xxx.itp.ac.cn
 - 在原网站找到文章后，可以把https://替换为cn. 或者：http://xxx.itp.ac.cn/
 - 如：cn.arxiv.org/pdf/1710.06081v2 或者：http://xxx.itp.ac.cn/pdf/1506.02640v5
+
 ### 💡 已读论文列表
+
+#### CNN网络
 - **AlexNet**
 - **VGG_Net**
 - **ResNet**
-- **DenseNet** 
+- **DenseNet**
+- **SENet**
+- **SKNet**
+- **DO-Conv**
+
+#### 语义分割
 - **FCN** 
 - **U-Net** 
 - **Multi-Scale Context Aggregation by Dilation Convolutions** 
@@ -26,14 +34,15 @@
 - **Non-local**
 - **DAN**
 - **PAN**
+- **ResNeSt**
+- **FarSeg**
+
+#### 目标检测/实例分割
 - **R-CNN**
 - **Fast R-CNN**
 - **Faster R-CNN**
 - **Mask R-CNN**
-- **SENet**
-- **SKNet**
 - **ResNeSt**
-- **FarSeg**
 - **Yolov1**
 - **Yolov2**
 - **EfﬁcientDet**
@@ -164,3 +173,6 @@
 - 论文地址：[EfﬁcientDet: Scalable and Efﬁcient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/07/30/EfficientDet-paper/)
 
+### DO-Conv
+- 论文地址：[[DO-Conv: Depthwise Over-parameterized Convolutional Layer](https://arxiv.org/abs/2006.12030)](https://arxiv.org/abs/2006.12030)
+- 博文笔记：[博文地址]()

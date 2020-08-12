@@ -174,5 +174,5 @@
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/07/30/EfficientDet-paper/)
 
 ### DO-Conv
-- 论文地址：[[DO-Conv: Depthwise Over-parameterized Convolutional Layer](https://arxiv.org/abs/2006.12030)](https://arxiv.org/abs/2006.12030)
-- 博文笔记：[博文地址]()
+- 论文地址：[DO-Conv: Depthwise Over-parameterized Convolutional Layer](https://arxiv.org/abs/2006.12030)
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/08/11/DO-Conv/)

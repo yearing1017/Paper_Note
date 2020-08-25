@@ -16,6 +16,7 @@
 - **SENet**
 - **SKNet**
 - **DO-Conv**
+- **PyConv**
 
 #### 语义分割
 - **FCN** 

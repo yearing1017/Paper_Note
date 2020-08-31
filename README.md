@@ -1,5 +1,5 @@
 # Paper_Note
-⏰ **记录一些自己读过的论文笔记**
+⏰ **记录自己的论文笔记**
 ###  💡 论文下载tips：arxiv国内镜像的访问及PDF下载
 - Cornel University提供支持的原访问地址：https://arxiv.org
 - 国内中科院镜像的地址：cn.arxiv.org 或者：xxx.itp.ac.cn

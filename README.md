@@ -37,6 +37,7 @@
 - **PAN**
 - **ResNeSt**
 - **FarSeg**
+- **OCRNet**
 
 #### 目标检测/实例分割
 - **R-CNN**

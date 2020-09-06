@@ -182,3 +182,6 @@
 ### PyConv
 - 论文地址：[Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition](https://arxiv.org/abs/2006.11538)
 - 博文笔记：[博文地址](http://yearing1017.cn/2020/08/15/PyConv/)
+
+### OCRNet
+- 论文地址：[Object-Contextual Representations for Semantic Segmentation](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1909.11065.pdf)

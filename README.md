@@ -38,6 +38,7 @@
 - **ResNeSt**
 - **FarSeg**
 - **OCRNet**
+- **ACNet**
 
 #### 目标检测/实例分割
 - **R-CNN**
@@ -185,3 +186,6 @@
 
 ### OCRNet
 - 论文地址：[Object-Contextual Representations for Semantic Segmentation](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1909.11065.pdf)
+
+### ACNet
+- 论文地址：[ACNET: ATTENTION BASED NETWORK TO EXPLOIT COMPLEMENTARY FEATURES FOR RGBD SEMANTIC SEGMENTATION](https://arxiv.org/abs/1905.10089)

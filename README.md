@@ -186,6 +186,8 @@
 
 ### OCRNet
 - 论文地址：[Object-Contextual Representations for Semantic Segmentation](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1909.11065.pdf)
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/09/07/OCRNet/)
 
 ### ACNet
 - 论文地址：[ACNET: ATTENTION BASED NETWORK TO EXPLOIT COMPLEMENTARY FEATURES FOR RGBD SEMANTIC SEGMENTATION](https://arxiv.org/abs/1905.10089)
+

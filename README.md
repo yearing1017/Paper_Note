@@ -190,4 +190,4 @@
 
 ### ACNet
 - 论文地址：[ACNET: ATTENTION BASED NETWORK TO EXPLOIT COMPLEMENTARY FEATURES FOR RGBD SEMANTIC SEGMENTATION](https://arxiv.org/abs/1905.10089)
-
+- 博文笔记：[博文地址](http://yearing1017.cn/2020/09/09/ACNet-RGBD-Semantic-Segmentation/)
